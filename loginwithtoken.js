@@ -6,4 +6,4 @@ function login(token) {
     location.reload();
     }, 2500);
     }
-login('NTk4ODU4Nzg2OTQ5ODI0NTQy.GXvWCd.l3oDhOeUbWg8YCm4w6Hko8EmRAA6sotRBsXywg')
+login('')
